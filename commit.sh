@@ -1,1 +1,0 @@
-echo $RANDOM > foo.txt && git commit
