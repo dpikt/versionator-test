@@ -1,1 +1,1 @@
-echo $RANDOM > foo.txt && git commit -am "Test commit"
+echo $RANDOM > foo.txt && git commit -am "Test commit $RANDOM"
